@@ -1,0 +1,36 @@
+.severity-emergency {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+.severity-urgent {
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+    color: #856404;
+}
+
+.severity-moderate {
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+    color: #0c5460;
+}
+
+.severity-mild {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+.related-symptom {
+    margin: 5px;
+}
+
+.disclaimer {
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+#results {
+    display: none;
+}
